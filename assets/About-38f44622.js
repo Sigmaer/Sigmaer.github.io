@@ -1,0 +1,1 @@
+import{_ as t,o,c as s,w as a,V as n,a as e,b as r,d as l,e as c,f as u}from"./index-7199019d.js";const d={name:"About",data:()=>({})};function _(f,i,p,V,x,b){return o(),s(n,null,{default:a(()=>[e(u,null,{default:a(()=>[e(r,null,{default:a(()=>[e(l,null,{default:a(()=>[c(" this is about page ")]),_:1})]),_:1})]),_:1})]),_:1})}const C=t(d,[["render",_]]);export{C as default};
